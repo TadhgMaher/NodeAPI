@@ -1,0 +1,50 @@
+{
+Manufacturer: Apple;
+Model: iPhone 13 Pro Max;
+Price: $1,899;
+}
+{
+Manufacturer: Samsung; 
+Model: Galaxy S21 Ultra 5G; 
+Price: $700;
+}
+{
+Manufacturer: Google; 
+Model: Pixel 6 Pro;
+Price: $899
+}
+{
+Manufacturer: OnePlus;
+Model: 10 Pro; 
+Price: $345;
+}
+{
+Manufacturer: Xiaomi;
+Model: Mi 12; 
+Price: $1,099;
+}
+{
+Manufacturer: Sony;
+Model: Xperia 1 III, 
+Price: $1,199
+}
+{
+Manufacturer: Oppo;
+Model: Find X3 Pro;
+Price: $650;
+}
+{
+Manufacturer: Apple; 
+Model: iPhone 14; 
+Price: $1,199;
+}
+{
+Manufacturer: LG;
+Model: V90 ThinQ;
+Price: $999;
+}
+{
+Manufacturer: Motorola;
+Model: Edge+;
+Price: $890;
+}
